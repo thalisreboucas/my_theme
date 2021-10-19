@@ -1,0 +1,3 @@
+# Estatística suficiente e família exponencial.
+
+Here is a review of existing methods.
