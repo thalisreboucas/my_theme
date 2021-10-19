@@ -1,0 +1,45 @@
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+.book .book-summary {
+    position: absolute;
+    top: 0;
+    left: -300px;
+    bottom: 0;
+    z-index: 1;
+    width: 300px;
+    color: #111111;
+    background: #2c2a2a;
+   
+}
+
+.book .book-summary ul.summary li a, .book .book-summary ul.summary li span {
+      color: #6f7070;
+    
+}
+
+.book .book-summary ul.summary li.divider {
+    height: 1px;
+    margin: 7px 0;
+    overflow: hidden;
+    background: #5a5a5a;
+}
+
+
+.book .book-summary ul.summary li.active>a {
+    color: #ffffff;
+    background: 0 0;
+    text-decoration: none;
+}
