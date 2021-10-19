@@ -1,3 +1,0 @@
-intro
-estimação-pontual
-estatística-suficiente-e-família-exponencial.
