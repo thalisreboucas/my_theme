@@ -1,3 +1,6 @@
 intro
+definições
+amostra-aleatória-simples
+distribuição-da-amostra
 estimação-pontual
 estatística-suficiente-e-família-exponencial.
