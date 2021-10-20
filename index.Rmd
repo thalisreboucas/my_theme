@@ -77,7 +77,7 @@ média E(X) e sua variância Var(X)
 >
 >Um estimador é uma estatística cujas realizações são utilizadas para obter estimações dos parâmetros de um modelo probabilístico e uma realização ou um valor particular se conhece como estimação.
 >
->A estatística que assuma qualquer valor em $\Theta$ é uma estimador para \theta.
+>A estatística que assuma qualquer valor em $\Theta$ é uma estimador para $\theta$.
 >
 
 
