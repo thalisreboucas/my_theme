@@ -15,6 +15,11 @@ description: "Livro de Inferência."
 
 # Introdução {#intro}
 
+```{r eval=FALSE, include=FALSE}
+
+bookdown::render_book(output_dir = "E:/edime/Thalis/CadernoR/inferencia/my_theme/docs")
+```
+  
 Esse será um Livro para ajudar na cadeira de inferência !!!
 
 
@@ -55,4 +60,3 @@ Seja $X_1,X_2,...,X_n$ numa amostra aleatória de umavariável aleatória com di
 \[ = \prod_{k=1}^{n} f_{X_k}(x_k;\theta) \]
 
 > A essa distribuição conjunta dá-se o nome de **função de verossimilhança.**
-

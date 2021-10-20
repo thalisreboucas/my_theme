@@ -1,2 +1,9 @@
 # Estimação pontual 
 
+## Método dos momentos
+
+## Método da máxima verossimilhança
+
+## método dos mínimos quadrados
+
+## Eficiência de estimadores
