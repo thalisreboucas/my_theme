@@ -11,3 +11,4 @@ estatística-suficiente-e-família-exponencial.
 estimação-intervalar
 formulario
 estatísticas
+parametros

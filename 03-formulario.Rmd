@@ -5,7 +5,19 @@
 Considere uma amostra aleatória $X_1,X_2,...,X_n$ de uma variável aleatória X.
 As estatísticas mais comuns são: 
 
-\[ \text{Média amostral : }  \bar(X)=  \dfrac{1}{n} \sum_{i=1}^{n}X_i  
+\[ \text{Média amostral : }  \;     \bar{X}=  \dfrac{1}{n} \sum_{i=1}^{n}X_i \\
+   \text{Variância amostral : } \;   S^2 = \dfrac{1}{n-1} \sum_{i=1}^{n}(X_i-\bar{X})^2 \\ 
+   \text{Menor valor amostral : } \; X_1 = min(X_1,X_2,...,X_n) \\
+   \text{Mair valor amostral : }  \; X_n =  max(X_1,X_2,...,X_n)  \\
+   \text{Amplitude amostral : } W =  X_n-X_1
 \]
 
 
+## Parametros 
+
+
+| Estatística   |   Amostra     |  População    |
+|---------------|:-------------:|--------------:|
+|     Média     |  left-aligned | $E(X)= \mu$   |
+|    Mediana    |    centered   |   $12         |
+|    Variância  | right-aligned |    $1         |

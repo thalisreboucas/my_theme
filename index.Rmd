@@ -17,11 +17,9 @@ description: "Livro de Inferência."
 
 ```{r eval=FALSE, include=FALSE}
 
-<<<<<<< HEAD
+
 bookdown::render_book(output_dir = "E:/edime/Thalis/CadernoR/my_theme/docs")
-=======
-bookdown::render_book(output_dir = "E:/edime/Thalis/CadernoR/inferencia/my_theme/docs")
->>>>>>> 503e481cd126e368d85f28aadd789c195ce6a7bc
+
 ```
   
 Esse será um Livro para ajudar na cadeira de inferência !!!
