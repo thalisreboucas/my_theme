@@ -51,6 +51,7 @@ mais valores para $\theta$, baseado em um conjunto de valores observados de X.
 
 >
 > **Estatísticas**
+>
 > Uma estatística é uma característica da amostra, ou seja, uma estatística
 _T_ é uma função de $X_1,X_2,...,X_n$ , não depende de parâmetros desconhecidos
 >
@@ -59,6 +60,7 @@ _T_ é uma função de $X_1,X_2,...,X_n$ , não depende de parâmetros desconhec
 
 >
 > **Parâmetro**
+>
 > Um parâmetro é uma medida usada para descrever uma característica da
 população
 >
@@ -80,3 +82,4 @@ Seja $X_1,X_2,...,X_n$ numa amostra aleatória de umavariável aleatória com di
 \[ = \prod_{k=1}^{n} f_{X_k}(x_k;\theta) \]
 
 > A essa distribuição conjunta dá-se o nome de **função de verossimilhança.**
+
