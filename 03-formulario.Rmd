@@ -16,8 +16,13 @@ As estatísticas mais comuns são:
 ## Parametros 
 
 
-| Estatística   |   Amostra     |  População    |
-|---------------|:-------------:|--------------:|
-|     Média     |  left-aligned | $E(X)= \mu$   |
-|    Mediana    |    centered   |   $12         |
-|    Variância  | right-aligned |    $1         |
+| Estatística        |   Amostra     |  População    |
+|--------------------|:-------------:|--------------:|
+|     Média          |  $\bar{X}$    | $E(X)= \mu$   |
+|    Mediana         |    $md = q_2$ | $Md = Q_2$   |
+|    Variância       |   $S^2$       | $Var(X) = \sigma^2$  |
+|    Tamanho         | n             |    N          |
+|    Proporção       | $\hat{p}$     |    p          |
+|    Quartis         | $q_1,q_2,q_3$ |$Q_1,Q_2,Q_3$  |
+| Função densidade   | histograma    |    f(X)       |
+| Função Acumulada   | F_e(X)        |   F(X)        |
