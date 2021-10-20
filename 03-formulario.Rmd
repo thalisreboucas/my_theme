@@ -21,8 +21,8 @@ As estatísticas mais comuns são:
 |     Média          |  $\bar{X}$    | $E(X)= \mu$   |
 |    Mediana         |    $md = q_2$ | $Md = Q_2$   |
 |    Variância       |   $S^2$       | $Var(X) = \sigma^2$  |
-|    Tamanho         | n             |    N          |
-|    Proporção       | $\hat{p}$     |    p          |
+|    Tamanho         | $n$             |    $N$          |
+|    Proporção       | $\hat{p}$     |    $p$          |
 |    Quartis         | $q_1,q_2,q_3$ |$Q_1,Q_2,Q_3$  |
-| Função densidade   | histograma    |    f(X)       |
-| Função Acumulada   | F_e(X)        |   F(X)        |
+| Função densidade   | histograma    |    $f(X)$       |
+| Função Acumulada   | $F_e(X)$        |   $F(X)$        |
