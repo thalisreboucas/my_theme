@@ -55,6 +55,7 @@ mais valores para $\theta$, baseado em um conjunto de valores observados de X.
 > Uma estatística é uma característica da amostra, ou seja, uma estatística
 _T_ é uma função de $X_1,X_2,...,X_n$ , não depende de parâmetros desconhecidos
 >
+> A média, a mediana, o mínimo e o máximo, por exemplo, são exemplos de estatísticas!!!
 >
 
 
@@ -62,11 +63,25 @@ _T_ é uma função de $X_1,X_2,...,X_n$ , não depende de parâmetros desconhec
 > **Parâmetro**
 >
 > Um parâmetro é uma medida usada para descrever uma característica da
-população
+população.Em geral são desconhecidos e têm-se o objetivo de estimá-los.
 >
 >Considere uma população identificada pela v.a X, seriam parâmetros a
 média E(X) e sua variância Var(X)
 >
+> **Espaço Parâmetro**   
+ >Seja $X_1,X_2,...,X_n$ uma amostra aleatória de uma variávelaleatória com distribuição $f(X_i;\theta)$, em que $\theta$ é o parâmetro associado à distribuição. O intervalo $\Theta$ de valores possíveis para $\theta$ é chamado espaço paramétrico.
+>
+
+>
+> **Estimador**
+>
+>Um estimador é uma estatística cujas realizações são utilizadas para obter estimações dos parâmetros de um modelo probabilístico e uma realização ou um valor particular se conhece como estimação.
+>
+>A estatística que assuma qualquer valor em $\Theta$ é uma estimador para \theta.
+>
+
+
+
 
 ## Amostra Aleatória Simples
 
