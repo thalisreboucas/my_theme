@@ -3,4 +3,11 @@ definições
 amostra-aleatória-simples
 distribuição-da-amostra
 estimação-pontual
+método-dos-momentos
+método-da-máxima-verossimilhança
+método-dos-mínimos-quadrados
+eficiência-de-estimadores
 estatística-suficiente-e-família-exponencial.
+estimação-intervalar
+formulario
+estatísticas

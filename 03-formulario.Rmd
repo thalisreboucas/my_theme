@@ -1,16 +1,11 @@
-`r if (knitr::is_html_output()) '
-# References {-}
-'`
+# Formulario 
 
-M. C. Bolfarine, H. & Sandoval. Introdução a Inferência Estatística. SBM,
-2001.
+## Estatísticas
 
-P. A. Bussab, W. O. & Morettin. Estatística Básica. Saraiva, 2014.
+Considere uma amostra aleatória $X_1,X_2,...,X_n$ de uma variável aleatória X.
+As estatísticas mais comuns são: 
 
-R. Casella, G.; Berger. Statistical Inference. Duxbury/Thomson Learning,
-2002.
+\[ \text{Média amostral : }  \bar(X)=  \dfrac{1}{n} \sum_{i=1}^{n}X_i  
+\]
 
-J. L. Devore. Probabilidade e Estatística para Engenharia e Ciências. Cenfigage, 2018.
 
-F.; Boes D. Mood, A.; Graybill. Introduction to the Theory of Statistics.
-McGraw-Hill, 1974.

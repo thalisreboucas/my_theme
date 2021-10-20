@@ -17,7 +17,11 @@ description: "Livro de Inferência."
 
 ```{r eval=FALSE, include=FALSE}
 
+<<<<<<< HEAD
+bookdown::render_book(output_dir = "E:/edime/Thalis/CadernoR/my_theme/docs")
+=======
 bookdown::render_book(output_dir = "E:/edime/Thalis/CadernoR/inferencia/my_theme/docs")
+>>>>>>> 503e481cd126e368d85f28aadd789c195ce6a7bc
 ```
   
 Esse será um Livro para ajudar na cadeira de inferência !!!
@@ -46,9 +50,27 @@ mais valores para $\theta$, baseado em um conjunto de valores observados de X.
 
 É, portanto, a partir da amostra $X_1,X_2,...,X_n$ que conseguimos obter informação sobre o parâmetro $\theta$ de interesse. Mas como ainda não sabemos o que é um parâmetro, vamos explicar na próxima seção.
 
+
+>
+> **Estatísticas**
+> Uma estatística é uma característica da amostra, ou seja, uma estatística
+_T_ é uma função de $X_1,X_2,...,X_n$ , não depende de parâmetros desconhecidos
+>
+>
+
+
+>
+> **Parâmetro**
+> Um parâmetro é uma medida usada para descrever uma característica da
+população
+>
+>Considere uma população identificada pela v.a X, seriam parâmetros a
+média E(X) e sua variância Var(X)
+>
+
 ## Amostra Aleatória Simples
 
-Seja _X_ uma variável aleatória com distribuição de probabilidade ou função densidade de probabilidade $f (x|\theta)$. Sejam $X_1,X_2,...,X_n$ variáveis aleató-rias independentes e identicamente distribuídas, indicandonretiradas de uma população P.  Então, $X_1,X_2,...,X_n$ é uma amostra aleatória simples de P.
+Seja _X_ uma variável aleatória com distribuição de probabilidade ou função densidade de probabilidade $f (x|\theta)$. Sejam $X_1,X_2,...,X_n$ variáveis aleató-rias independentes e identicamente distribuídas, indicandonretiradas de uma população _P_.  Então, $X_1,X_2,...,X_n$ é uma amostra aleatória simples de _P_.
 
 Perceba que quando coletamos as observações por meio da amostra aleatória simples, podemos afirmar que temos uma amostra de variáveis aleatórias independentes (a retirada de uma observação não tem relação com a retirada de nenhuma outra) e identicamente distribuídas (cada observação tem a mesma distribuição deprobabildiade ou função densidade de probabilidade). A partir dessas duas características, podemos encontrara distribuição conjunta dessa amostra, que é apresentada formalmente a seguir.
 
