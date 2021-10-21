@@ -98,3 +98,17 @@ Seja $X_1,X_2,...,X_n$ numa amostra aleatória de umavariável aleatória com di
 
 > A essa distribuição conjunta dá-se o nome de **função de verossimilhança.**
 
+## Estatísticas particularidades
+
+### Estatística suficiente
+
+Dentre todas as estatísticas, nesta subseção vamos estudar aquela que a literatura chama de estatística suficiente, cuja quantidade permite um resumo das informações trazidas pela amostra, sendo capaz de resumiros dados sem perder nenhuma informação sobre $\theta$ .
+
+>
+>**Definição:**
+>
+>Seja $X_1,X_2,...,X_n$ uma amostra aleatória de uma população com função de probabilidade ou função densidade de probabilidade $f(X|\theta)$, com $\theta \in \Theta$.  A estatística $T=T(X_1,X_2,...,X_n)$ é dita ser suficiente para $\theta$ se, e somente se, a distribuição conjuntade $(X_1,X_2,...,X_n)$ dado T=t não depende de $\theta$.
+>
+
+Podemos afirmar, nesse sentido, que, conhecida uma estatística suficiente, os dados da amostra passama ser desconsiderados ou irrelevantes, dado que não há mais informações adicionais a serem retiradas sobre oparâmetro de interesse, embora ainda possa conter informações relevantes sobre o modelo estatístico.
+
