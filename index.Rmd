@@ -89,7 +89,7 @@ Seja _X_ uma variável aleatória com distribuição de probabilidade ou funçã
 
 Perceba que quando coletamos as observações por meio da amostra aleatória simples, podemos afirmar que temos uma amostra de variáveis aleatórias independentes (a retirada de uma observação não tem relação com a retirada de nenhuma outra) e identicamente distribuídas (cada observação tem a mesma distribuição deprobabildiade ou função densidade de probabilidade). A partir dessas duas características, podemos encontrara distribuição conjunta dessa amostra, que é apresentada formalmente a seguir.
 
-### Distribuição da amostra
+### Distribuição da amostral
 
 Seja $X_1,X_2,...,X_n$ numa amostra aleatória de umavariável aleatória com distribuição $f (x_i|\theta)$. A distribuição da respectiva amostra é a distribuição conjuntade $X_1,X_2,...,X_n$ dada por:
 \[f_{(X_1,X_2,...,X_n)} = f_{X_1}(x_1;\theta) f_{X_2}(x_2;\theta) \ldots f_{X_3}(x_3;\theta)

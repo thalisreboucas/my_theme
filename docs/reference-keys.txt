@@ -1,7 +1,7 @@
 intro
 definições
 amostra-aleatória-simples
-distribuição-da-amostra
+distribuição-da-amostral
 estimação-pontual
 método-dos-momentos
 método-da-máxima-verossimilhança
