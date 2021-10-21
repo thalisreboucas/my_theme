@@ -79,6 +79,10 @@
 <ul>
 <li class="chapter" data-level="1.2.1" data-path="index.html"><a href="index.html#distribuição-da-amostral"><i class="fa fa-check"></i><b>1.2.1</b> Distribuição da amostral</a></li>
 </ul></li>
+<li class="chapter" data-level="1.3" data-path="index.html"><a href="index.html#estatísticas-particularidades"><i class="fa fa-check"></i><b>1.3</b> Estatísticas particularidades</a>
+<ul>
+<li class="chapter" data-level="1.3.1" data-path="index.html"><a href="index.html#estatística-suficiente"><i class="fa fa-check"></i><b>1.3.1</b> Estatística suficiente</a></li>
+</ul></li>
 </ul></li>
 <li class="chapter" data-level="2" data-path="estimação-pontual.html"><a href="estimação-pontual.html"><i class="fa fa-check"></i><b>2</b> Estimação pontual</a>
 <ul>
@@ -176,6 +180,18 @@ Seja <span class="math inline">\(X_1,X_2,...,X_n\)</span> uma amostra aleatória
 <blockquote>
 <p>A essa distribuição conjunta dá-se o nome de <strong>função de verossimilhança.</strong></p>
 </blockquote>
+</div>
+</div>
+<div id="estatísticas-particularidades" class="section level2" number="1.3">
+<h2><span class="header-section-number">1.3</span> Estatísticas particularidades</h2>
+<div id="estatística-suficiente" class="section level3" number="1.3.1">
+<h3><span class="header-section-number">1.3.1</span> Estatística suficiente</h3>
+<p>Dentre todas as estatísticas, nesta subseção vamos estudar aquela que a literatura chama de estatística suficiente, cuja quantidade permite um resumo das informações trazidas pela amostra, sendo capaz de resumiros dados sem perder nenhuma informação sobre <span class="math inline">\(\theta\)</span> .</p>
+<blockquote>
+<p><strong>Definição:</strong></p>
+<p>Seja <span class="math inline">\(X_1,X_2,...,X_n\)</span> uma amostra aleatória de uma população com função de probabilidade ou função densidade de probabilidade <span class="math inline">\(f(X|\theta)\)</span>, com <span class="math inline">\(\theta \in \Theta\)</span>. A estatística <span class="math inline">\(T=T(X_1,X_2,...,X_n)\)</span> é dita ser suficiente para <span class="math inline">\(\theta\)</span> se, e somente se, a distribuição conjuntade <span class="math inline">\((X_1,X_2,...,X_n)\)</span> dado T=t não depende de <span class="math inline">\(\theta\)</span>.</p>
+</blockquote>
+<p>Podemos afirmar, nesse sentido, que, conhecida uma estatística suficiente, os dados da amostra passama ser desconsiderados ou irrelevantes, dado que não há mais informações adicionais a serem retiradas sobre oparâmetro de interesse, embora ainda possa conter informações relevantes sobre o modelo estatístico.</p>
 
 </div>
 </div>

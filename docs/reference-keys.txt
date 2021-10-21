@@ -2,6 +2,8 @@ intro
 definições
 amostra-aleatória-simples
 distribuição-da-amostral
+estatísticas-particularidades
+estatística-suficiente
 estimação-pontual
 método-dos-momentos
 método-da-máxima-verossimilhança
